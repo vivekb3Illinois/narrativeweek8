@@ -20,9 +20,10 @@
     <div id="intropage" class="section" data-anchor="main-pg">
         <div id="intropg" style="text-align:center">
             <h1> San Francisco Residential Housing, 2009-2019</h1>
-            <p class="content">Interactive visualization narrative on housing data by Vivek Bansal (vivekb3@illinois.edu)</p>
+            <p class="content">Interactive visualization narrative on housing data by Vivek Bansal
+                (vivekb3@illinois.edu)</p>
         </div>
-        <div id="intro-img">
+        <div id="intro-img" class="landscape">
         </div>
     </div>
 
@@ -37,21 +38,21 @@
 
             The overall median home value in San Francisco rose a whopping 90% between April 2009 and April 2019,
             from $715,900 to $1.36 million, according to property rental and sales company Trulia.
-
-            <p>
+        </p>
+        <p>
             In the following scene, map of San Francisco is displayed that shows the price for 2009 as default.
             It provides the options to user to slide through the years which will show the price for selected year
-        through the tooltip and colors will modulate based on price increase. User can plot the landmarks that will be
-        displayed on the map through the button on the left side of the page, similarly another button is present to
-        display schools on the plot. User can click on the map to zoom-in the area and that will also show the pie chart
-        indicating housing type and shows bar chart indicating pricing trend for that area with price/sqft on y-axis
-        and year on x-axis. User further clicks on the same region of the map to zoom-out of the scene.
-    </p>
+            through the tooltip and colors will modulate based on price increase. User can plot the landmarks that will
+            be
+            displayed on the map through the button on the left side of the page, similarly another button is present to
+            display schools on the plot. User can click on the map to zoom-in the area and that will also show the pie
+            chart
+            indicating housing type and shows bar chart indicating pricing trend for that area with price/sqft on y-axis
+            and year on x-axis. User further clicks on the same region of the map to zoom-out of the scene.
 
 
         </p>
-        <div id="sfo-img">
-        </div>
+
 
     </div>
 
@@ -80,7 +81,7 @@
         //scrollHorizontally:true,
         navigation: true,
         navigationPosition: 'false',
-        anchors: ["main-pg", "info-pg","housing","housing1"],
+        anchors: ["main-pg", "info-pg", "housing", "housing1"],
         navigationTooltips: ['main', "Information", 'Housing'],
         slidesNavPosition: "left",
         keyboardScrolling: true,

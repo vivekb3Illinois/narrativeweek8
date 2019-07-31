@@ -264,25 +264,13 @@ div.tooltip {
 #intro-img {
     background-image: url("realestateprices.png");
     background-size: cover;
-    width: auto;;
+    width: 85%;
     height: 80%;
     margin: 0;
     padding: 0;
 }
 
-#sfmap {
-    margin: 0;
-    padding: 0;
-}
 
-#sf0-img {
-    background-image: url("sfo.png");
-    background-size: cover;
-    width: auto;;
-    height: 80%;
-    margin: 0;
-    padding: 0;
-}
 
 h3 {
     color: #d54d7b;
