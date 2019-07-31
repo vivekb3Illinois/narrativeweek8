@@ -1,0 +1,95 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>San Francisco Residential Housing Value</title>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <script type="text/javascript" src="fullpage.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="fullpage.css"/>
+    <link rel="stylesheet" type="text/css" href="main.css"/>
+</head>
+
+<body>
+<div id="pricedata" class="content">
+
+
+    <div id="intropage" class="section" data-anchor="main-pg">
+        <div id="intropg" style="text-align:center">
+            <h1> San Francisco Residential Housing, 2009-2019</h1>
+            <p class="content">Interactive visualization narrative on housing data by Vivek Bansal (vivekb3@illinois.edu)</p>
+        </div>
+        <div id="intro-img">
+        </div>
+    </div>
+
+
+    <div class="section" data-anchor="info-pg">
+        <h1> Housing Prices in San Francisco area </h1>
+        <p>
+            Real estate in San Francisco is more expensive than nearly anywhere else in the U.S.
+            The median sale price of homes in San Francisco went up consecutive years from 2009 to 2019.
+            So if you bought a home in San Francisco 10 years ago, it’s very likely you’d have profited on the deal
+            by now — in fact, in several neighborhoods, you would have a good chance at doubling your money.
+
+            The overall median home value in San Francisco rose a whopping 90% between April 2009 and April 2019,
+            from $715,900 to $1.36 million, according to property rental and sales company Trulia.
+
+            <p>
+            In the following scene, map of San Francisco is displayed that shows the price for 2009 as default.
+            It provides the options to user to slide through the years which will show the price for selected year
+        through the tooltip and colors will modulate based on price increase. User can plot the landmarks that will be
+        displayed on the map through the button on the left side of the page, similarly another button is present to
+        display schools on the plot. User can click on the map to zoom-in the area and that will also show the pie chart
+        indicating housing type and shows bar chart indicating pricing trend for that area with price/sqft on y-axis
+        and year on x-axis. User further clicks on the same region of the map to zoom-out of the scene.
+    </p>
+
+
+        </p>
+        <div id="sfo-img">
+        </div>
+
+    </div>
+
+
+    <div id="trend" data-anchor="housing" class="section">
+        <h1 class="year"></h1>
+        <div class="slider" id="slider"></div>
+        <div id="map" class="slider"></div>
+        <div id="donutchart"></div>
+        <div id="chart"/>
+
+    </div>
+    <div>
+        <div class="button2" id="landmark">Landmarks</div>
+        <div class="button2" id="school">Schools</div>
+    </div>
+
+    <p class="content">Click on the map to zoom-in and click again on same city to zoom-out</p>
+
+</div>
+
+<script>
+    new fullpage('#pricedata', {
+        licenseKey: "OPEN-SOURCE-GPLV3-LICENSE",
+        autoScrolling: false,
+        //scrollHorizontally:true,
+        navigation: true,
+        navigationPosition: 'false',
+        anchors: ["main-pg", "info-pg","housing","housing1"],
+        navigationTooltips: ['main', "Information", 'Housing'],
+        slidesNavPosition: "left",
+        keyboardScrolling: true,
+        sectionsColor: ['white', 'aliceblue', 'white', 'white'],
+        loopBottom: false,
+    });
+</script>
+
+<script type="text/javascript" src="main.js">
+</script>
+</body>
+</html>

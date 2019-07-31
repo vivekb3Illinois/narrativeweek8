@@ -1,0 +1,4022 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.4823,37.783005 ]
+    },
+    "properties": {
+    "SCH_NAME":"Alamo Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"250 23RD AVE, San Francisco, CA 94121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.438194,37.753681 ]
+    },
+    "properties": {
+    "SCH_NAME":"Alvarado Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"625 DOUGLASS ST, San Francisco, CA 94114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.465782,37.729672 ]
+    },
+    "properties": {
+    "SCH_NAME":"Aptos Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"105 APTOS AVE, San Francisco, CA 94127"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.47406,37.773968 ]
+    },
+    "properties": {
+    "SCH_NAME":"Argonne Early Education School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"750 16TH AVE, San Francisco, CA 94118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.476311,37.775307 ]
+    },
+    "properties": {
+    "SCH_NAME":"Argonne Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"680 18TH AVE, San Francisco, CA 94121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.44883,37.745316 ]
+    },
+    "properties": {
+    "SCH_NAME":"Asawa, Ruth Asawa San Francisco School Of The Arts\n\n / Academy Of Arts And Sciences",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"555 PORTOLA DR, SAN FRANCISCO CA, 94131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.441399,37.721142 ]
+    },
+    "properties": {
+    "SCH_NAME":"Balboa High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1000 CAYUGA AVE, San Francisco, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.399574,37.736477 ]
+    },
+    "properties": {
+    "SCH_NAME":"Brown, Willie Brown Jr Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2055 SILVER AVE, San Francisco, CA 94124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.404694,37.751453 ]
+    },
+    "properties": {
+    "SCH_NAME":"Bryant Early Education / Bryant Elementary",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2641 25TH ST, San Francisco, CA 94110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.420181,37.753033 ]
+    },
+    "properties": {
+    "SCH_NAME":"Buena Vista / Horace Mann",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"3351 23RD ST, San Francisco, CA 94110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.406555,37.721546 ]
+    },
+    "properties": {
+    "SCH_NAME":"Burton, Phillip And Sala Burton High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"400 MANSELL ST, San Francisco, CA 94134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.40049,37.78056 ]
+    },
+    "properties": {
+    "SCH_NAME":"Carmichael, Bessie Carmichael (6-8 Campus)",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"824 HARRISON ST, San Francisco, CA 94107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.406456,37.776382 ]
+    },
+    "properties": {
+    "SCH_NAME":"Carmichael, Bessie Carmichael K-5 Campus / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"375 07TH ST, San Francisco, CA 94103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.385338,37.731667 ]
+    },
+    "properties": {
+    "SCH_NAME":"Carver, Dr. George Washington Carver Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1360 OAKDALE AVE, San Francisco, CA 94124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.414879,37.754921 ]
+    },
+    "properties": {
+    "SCH_NAME":"Chavez, Cesar Chavez Elementary School / Preschool",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"825 SHOTWELL ST, San Francisco, CA 94110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.403221,37.798611 ]
+    },
+    "properties": {
+    "SCH_NAME":"Chin, John Yehall Chin Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"350 BROADWAY, San Francisco, CA 94133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.40406,37.794769 ]
+    },
+    "properties": {
+    "SCH_NAME":"Chinese Education Center Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"657 MERCHANT ST, SAN FRANCISCO, CA 94111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.444275,37.769829 ]
+    },
+    "properties": {
+    "SCH_NAME":"Chinese Immersion School At Deavila",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1250 WALLER ST, San Francisco, CA 94117"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.424667,37.718784 ]
+    },
+    "properties": {
+    "SCH_NAME":"City Arts And Tech High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"325 LA GRANDE AVE, San Francisco, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.404701,37.795555 ]
+    },
+    "properties": {
+    "SCH_NAME":"City College of San Francisco Chinatown North Beach Center",
+    "SCH_LABEL":"SFCCD",
+    "SCH_TYPE":"CC",
+    "Address":"808 KEARNY ST, SAN FRANCISCO, CA 94108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.414299,37.779545 ]
+    },
+    "properties": {
+    "SCH_NAME":"City College of San Francisco Civic Center",
+    "SCH_LABEL":"SFCCD",
+    "SCH_TYPE":"CC",
+    "Address":"1170 MARKET ST, SAN FRANCISCO, CA 94102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.404724,37.784565 ]
+    },
+    "properties": {
+    "SCH_NAME":"City College of San Francisco Downtown Center",
+    "SCH_LABEL":"SFCCD",
+    "SCH_TYPE":"CC",
+    "Address":"88 4TH ST, SAN FRANCISCO, CA 94103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.384682,37.741859 ]
+    },
+    "properties": {
+    "SCH_NAME":"City College of San Francisco Evans Center",
+    "SCH_LABEL":"SFCCD",
+    "SCH_TYPE":"CC",
+    "Address":"1400 EVANS AVE, SAN FRANCISCO, CA 94124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.431824,37.80677 ]
+    },
+    "properties": {
+    "SCH_NAME":"City College of San Francisco Fort Mason Site",
+    "SCH_LABEL":"SFCCD",
+    "SCH_TYPE":"CC",
+    "Address":"2 MARINA BLVD, SAN FRANCISCO, CA 94123"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.421211,37.771988 ]
+    },
+    "properties": {
+    "SCH_NAME":"City College of San Francisco Gough Street Location",
+    "SCH_LABEL":"SFCCD",
+    "SCH_TYPE":"CC",
+    "Address":"33 GOUGH ST, SAN FRANCISCO, CA 94103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.447189,37.774086 ]
+    },
+    "properties": {
+    "SCH_NAME":"City College of San Francisco John Adams Center",
+    "SCH_LABEL":"SFCCD",
+    "SCH_TYPE":"CC",
+    "Address":"1860 HAYES ST, SAN FRANCISCO, CA 94117"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.420616,37.754791 ]
+    },
+    "properties": {
+    "SCH_NAME":"City College of San Francisco Mission Center",
+    "SCH_LABEL":"SFCCD",
+    "SCH_TYPE":"CC",
+    "Address":"1125 VALENCIA ST, SAN FRANCISCO, CA 94110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.451134,37.725716 ]
+    },
+    "properties": {
+    "SCH_NAME":"City College of San Francisco Ocean Campus",
+    "SCH_LABEL":"SFCCD",
+    "SCH_TYPE":"CC",
+    "Address":"50 PHELAN AVE, SAN FRANCISCO, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.394096,37.737148 ]
+    },
+    "properties": {
+    "SCH_NAME":"City College of San Francisco Southeast Center",
+    "SCH_LABEL":"SFCCD",
+    "SCH_TYPE":"CC",
+    "Address":"1800 OAKDALE AVE, SAN FRANCISCO, CA 94124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.456268,37.753754 ]
+    },
+    "properties": {
+    "SCH_NAME":"Clarendon Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"500 CLARENDON AVE, San Francisco, CA 94131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.429192,37.720341 ]
+    },
+    "properties": {
+    "SCH_NAME":"Cleveland Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"455 ATHENS ST, San Francisco, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.439552,37.787678 ]
+    },
+    "properties": {
+    "SCH_NAME":"Cobb, Dr. William L. Cobb Elementary School / Preschool",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2725 CALIFORNIA ST, San Francisco, CA 94115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.436073,37.779804 ]
+    },
+    "properties": {
+    "SCH_NAME":"Creative Arts Charter School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1601 TURK ST, San Francisco, CA 94115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.443184,37.72131 ]
+    },
+    "properties": {
+    "SCH_NAME":"Denman, James Denman Middle School / Leadership Charter High",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"241 ONEIDA AVE, San Francisco, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.39389,37.731796 ]
+    },
+    "properties": {
+    "SCH_NAME":"Drew, Dr. Charles R. Drew Elementary / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"50 POMONA ST, San Francisco, CA 94124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.403702,37.761398 ]
+    },
+    "properties": {
+    "SCH_NAME":"Downtown High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"693 VERMONT ST, San Francisco, CA 94107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.426041,37.754467 ]
+    },
+    "properties": {
+    "SCH_NAME":"Edison Charter K-8",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"3531 22ND ST, San Francisco, CA 94114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.407852,37.718658 ]
+    },
+    "properties": {
+    "SCH_NAME":"El Dorado Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"70 DELTA ST, San Francisco, CA 94134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.429367,37.763577 ]
+    },
+    "properties": {
+    "SCH_NAME":"Everett Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"450 CHURCH ST, San Francisco, CA 94114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.425011,37.740433 ]
+    },
+    "properties": {
+    "SCH_NAME":"Fairmount Elementary School / Preschool",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"65 CHENERY ST, San Francisco, CA 94131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.481369,37.739685 ]
+    },
+    "properties": {
+    "SCH_NAME":"Feinstein, Dianne Feinstein Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2550 25TH AVE, San Francisco, CA 94116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.402229,37.777107 ]
+    },
+    "properties": {
+    "SCH_NAME":"Five Keys Charter",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"70 OAK GROVE ST, San Francisco, CA 94107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.411964,37.747746 ]
+    },
+    "properties": {
+    "SCH_NAME":"Flynn, Leonard Flynn Elementary / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"3125 CESAR CHAVEZ ST, San Francisco, CA 94110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.410965,37.804569 ]
+    },
+    "properties": {
+    "SCH_NAME":"Francisco Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2190 POWELL ST, San Francisco, CA 94133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.424149,37.803791 ]
+    },
+    "properties": {
+    "SCH_NAME":"Galileo High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1150 FRANCISCO ST, San Francisco, CA 94109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.406692,37.802036 ]
+    },
+    "properties": {
+    "SCH_NAME":"Garfield Elementary / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"420 FILBERT ST, San Francisco, CA 94133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.436691,37.783264 ]
+    },
+    "properties": {
+    "SCH_NAME":"Gateway High School / Kipp Sf Bay Academy",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1430 SCOTT ST, San Francisco, CA 94115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.435921,37.779419 ]
+    },
+    "properties": {
+    "SCH_NAME":"Gateway Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1512 GOLDEN GATE AVE, SAN FRANCISCO CA 94115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.496666,37.750301 ]
+    },
+    "properties": {
+    "SCH_NAME":"Giannini, A.P. Giannini Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"3151 ORTEGA ST, San Francisco, CA 94116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.435623,37.733131 ]
+    },
+    "properties": {
+    "SCH_NAME":"Glen Park Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"151 LIPPARD AVE, San Francisco, CA 94131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.450424,37.763493 ]
+    },
+    "properties": {
+    "SCH_NAME":"Grattan Elementary / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"165 GRATTAN ST, San Francisco, CA 94117"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.434029,37.710182 ]
+    },
+    "properties": {
+    "SCH_NAME":"Guadalupe Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"859 PRAGUE ST, San Francisco, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.389221,37.717899 ]
+    },
+    "properties": {
+    "SCH_NAME":"Harte, Bret Harte Elementary / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1035 GILMAN AVE, San Francisco, CA 94124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.388588,37.734085 ]
+    },
+    "properties": {
+    "SCH_NAME":"Havard, Leola M. Havard Early Education School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1520 OAKDALE AVE, SAN FRANCISCO CA 94124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.500053,37.74363 ]
+    },
+    "properties": {
+    "SCH_NAME":"Hearst, Phoebe Apperson Hearst Home",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"3045 SANTIAGO ST, SAN FRANCISCO 94116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.418686,37.728413 ]
+    },
+    "properties": {
+    "SCH_NAME":"Hillcrest Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"810 SILVER AVE, San Francisco, CA 94134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.40963,37.750454 ]
+    },
+    "properties": {
+    "SCH_NAME":"Hilltop High Special Services Center",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1325 FLORIDA ST, SAN FRANCISCO CA 94110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.468964,37.745556 ]
+    },
+    "properties": {
+    "SCH_NAME":"Hoover, Herbert Hoover Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2290 14TH AVE, San Francisco, CA 94116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.463585,37.763226 ]
+    },
+    "properties": {
+    "SCH_NAME":"Independence High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1350 07TH AVE, San Francisco, CA 94122"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.400688,37.761704 ]
+    },
+    "properties": {
+    "SCH_NAME":"International Studies Academy",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"655 DE HARO ST, SAN FRANCISCO CA 94107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.483162,37.76236 ]
+    },
+    "properties": {
+    "SCH_NAME":"Jefferson Early Education School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"CDC",
+    "Address":"1350 25TH AVE, San Francisco, CA 94122"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.47673,37.763065 ]
+    },
+    "properties": {
+    "SCH_NAME":"Jefferson Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1725 IRVING ST, San Francisco, CA 94122"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.476318,37.763062 ]
+    },
+    "properties": {
+    "SCH_NAME":"Jefferson Out Of School (OST) Program",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1325 18TH AVE, SAN FRANCISCO CA 94122"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.425148,37.719536 ]
+    },
+    "properties": {
+    "SCH_NAME":"Jordan, June Jordan High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"325 LA GRANDE AVE, San Francisco, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.501999,37.758099 ]
+    },
+    "properties": {
+    "SCH_NAME":"Key, Francis Scott Key Elementary/Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1530 43RD AVE, San Francisco, CA 94122"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.405807,37.727741 ]
+    },
+    "properties": {
+    "SCH_NAME":"King, Dr. Martin Luther King Jr. Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"350 GIRARD ST, San Francisco, CA 94134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.399193,37.753288 ]
+    },
+    "properties": {
+    "SCH_NAME":"King, Thomas Starr King Elementary / Preschool",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1215 CAROLINA ST, SAN FRANCISCO, CA 94107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.396561,37.719532 ]
+    },
+    "properties": {
+    "SCH_NAME":"Kipp Bayview Academy",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1060 KEY AVE, SAN FRANCISCO CA 94124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.496887,37.777069 ]
+    },
+    "properties": {
+    "SCH_NAME":"Lafayette Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"4545 ANZA ST, San Francisco, CA 94121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.42733,37.780636 ]
+    },
+    "properties": {
+    "SCH_NAME":"Laguna Golden Gate Child Care Center",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"CDC",
+    "Address":"1025 LAGUNA ST, SAN FRANCISCO CA 94115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.48542,37.730324 ]
+    },
+    "properties": {
+    "SCH_NAME":"Lakeshore Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"220 MIDDLEFIELD DR, San Francisco, CA 94132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.412987,37.782265 ]
+    },
+    "properties": {
+    "SCH_NAME":"Larkin Street Youth Services Academy",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"134 GOLDEN GATE AVE, SAN FRANCISCO CA 94102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.408806,37.794399 ]
+    },
+    "properties": {
+    "SCH_NAME":"Lau, Gordon J. Lau Elementary / Preschool",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"950 CLAY ST, San Francisco, CA 94108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.489098,37.758049 ]
+    },
+    "properties": {
+    "SCH_NAME":"Lawton Alternative School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1570 31ST AVE, San Francisco, CA 94122"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.432785,37.749363 ]
+    },
+    "properties": {
+    "SCH_NAME":"Lick, James Lick Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1220 NOE ST, San Francisco, CA 94114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.367996,37.825512 ]
+    },
+    "properties": {
+    "SCH_NAME":"Life Learning Academy Charter School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"651 8TH TI ST, SAN FRANCISCO, CA 94130"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.443237,37.80336 ]
+    },
+    "properties": {
+    "SCH_NAME":"Lilienthal, Claire Lilienthal (3-8 Winfield Scott Campus)",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"3630 DIVISADERO ST, San Francisco, CA 94123"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.458015,37.787201 ]
+    },
+    "properties": {
+    "SCH_NAME":"Lilienthal, Claire Lilienthal (K-2 Madison Campus)",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"3950 SACRAMENTO ST, San Francisco, CA 94118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.48024,37.746594 ]
+    },
+    "properties": {
+    "SCH_NAME":"Lincoln, Abraham Lincoln High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2162 24TH AVE, San Francisco, CA 94116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.446739,37.710423 ]
+    },
+    "properties": {
+    "SCH_NAME":"Longfellow Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"755 MORSE ST, San Francisco, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.483055,37.729435 ]
+    },
+    "properties": {
+    "SCH_NAME":"Lowell High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1101 EUCALYPTUS DR, San Francisco, CA 94132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.428093,37.755276 ]
+    },
+    "properties": {
+    "SCH_NAME":"Mahler, Theresa S. Mahler Early Education School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"CDC",
+    "Address":"990 CHURCH ST, San Francisco, CA 94114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.380966,37.734238 ]
+    },
+    "properties": {
+    "SCH_NAME":"Malcolm X Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"350 HARBOR RD, SAN FRANCISCO, CA 94124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.435478,37.801827 ]
+    },
+    "properties": {
+    "SCH_NAME":"Marina Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"3500 FILLMORE ST, San Francisco, CA 94123"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.419022,37.766289 ]
+    },
+    "properties": {
+    "SCH_NAME":"Marshall Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1575 15TH ST, San Francisco, CA 94103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.401649,37.736309 ]
+    },
+    "properties": {
+    "SCH_NAME":"Marshall, Thurgood Marshall High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"45 CONKLING ST, San Francisco, CA 94124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.464477,37.77631 ]
+    },
+    "properties": {
+    "SCH_NAME":"Mccoppin, Frank Mccoppin Elementary / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"651 06TH AVE, San Francisco, CA 94118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.436279,37.766884 ]
+    },
+    "properties": {
+    "SCH_NAME":"Mckinley Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1025 14TH ST, San Francisco, CA 94114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.423187,37.713131 ]
+    },
+    "properties": {
+    "SCH_NAME":"Mclaren, John Mclaren Early Education School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2055 SUNNYDALE AVE, San Francisco, CA 94134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.420105,37.783802 ]
+    },
+    "properties": {
+    "SCH_NAME":"Milk, Harvey Milk Childrens Center",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"CDC",
+    "Address":"841 ELLIS ST, SAN FRANCISCO CA 94117"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.436447,37.758926 ]
+    },
+    "properties": {
+    "SCH_NAME":"Milk, Harvey Milk Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"4235 19TH ST, San Francisco, CA 94114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.450188,37.738636 ]
+    },
+    "properties": {
+    "SCH_NAME":"Miraloma Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"175 OMAR WAY, San Francisco, CA 94127"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.431435,37.742203 ]
+    },
+    "properties": {
+    "SCH_NAME":"Mission Education Center Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1670 NOE ST, San Francisco, CA 94131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.427307,37.76202 ]
+    },
+    "properties": {
+    "SCH_NAME":"Mission High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"3750 18TH ST, San Francisco, CA 94114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.430489,37.725399 ]
+    },
+    "properties": {
+    "SCH_NAME":"Monroe Elementary / Excelsior Monroe Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"260 MADRID ST, San Francisco, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.41262,37.756741 ]
+    },
+    "properties": {
+    "SCH_NAME":"Moscone, George Moscone Elementary / Las Americas Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2576 HARRISON ST, San Francisco, CA 94110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.42868,37.773758 ]
+    },
+    "properties": {
+    "SCH_NAME":"Muir, John Muir Elementary / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"380 WEBSTER ST, San Francisco, CA 94102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.450264,37.773884 ]
+    },
+    "properties": {
+    "SCH_NAME":"New Traditions Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2049 GROVE ST, San Francisco, CA 94117"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.503654,37.753834 ]
+    },
+    "properties": {
+    "SCH_NAME":"Noriega Early Education School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1775 44TH AVE, San Francisco, CA 94122"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.413559,37.759514 ]
+    },
+    "properties": {
+    "SCH_NAME":"O'Connell, John O'Connell High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2355 FOLSOM ST, San Francisco, CA 94110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.466675,37.716782 ]
+    },
+    "properties": {
+    "SCH_NAME":"Ortega, Jose Ortega Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"400 SARGENT ST, San Francisco, CA 94132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.411041,37.797619 ]
+    },
+    "properties": {
+    "SCH_NAME":"Parker, Jean Parker Out-Of-School (OST) / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"840 BROADWAY, San Francisco, CA 94133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.429504,37.783009 ]
+    },
+    "properties": {
+    "SCH_NAME":"Parks, Rosa Parks Japanese Bilingual Bicultural Program / Weill, Raphael Weill  Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1501 OFARRELL ST, San Francisco, CA 94115"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.465027,37.783855 ]
+    },
+    "properties": {
+    "SCH_NAME":"Peabody, George Peabody Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"251 06TH AVE, San Francisco, CA 94118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.461105,37.79752 ]
+    },
+    "properties": {
+    "SCH_NAME":"Presidio Early Education School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"387 MORAGA AVE, San Francisco, CA 94129"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.489624,37.780865 ]
+    },
+    "properties": {
+    "SCH_NAME":"Presidio Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"450 30TH AVE, San Francisco, CA 94121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.41925,37.78952 ]
+    },
+    "properties": {
+    "SCH_NAME":"Redding Elementary / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1421 PINE ST, San Francisco, CA 94109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.413116,37.737614 ]
+    },
+    "properties": {
+    "SCH_NAME":"Revere, Paul Revere School / Preschool",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"555 TOMPKINS AVE, San Francisco, CA 94110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.418556,37.749821 ]
+    },
+    "properties": {
+    "SCH_NAME":"Rodriguez, Zaida T. Rodriguez Early Education School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"421 BARTLETT ST, San Francisco, CA 94110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.444496,37.757397 ]
+    },
+    "properties": {
+    "SCH_NAME":"Rooftop (5-8 Mayeda Campus)",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"500 CORBETT AVE, San Francisco, CA 94114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.443222,37.75481 ]
+    },
+    "properties": {
+    "SCH_NAME":"Rooftop (K-4 Burnett Campus)",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"443 BURNETT AVE, San Francisco, CA 94131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.458351,37.78228 ]
+    },
+    "properties": {
+    "SCH_NAME":"Roosevelt, Theodore Roosevelt Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"460 ARGUELLO BLVD, San Francisco, CA 94118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.432136,37.726105 ]
+    },
+    "properties": {
+    "SCH_NAME":"San Francisco Community Alternative School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"125 EXCELSIOR AVE, San Francisco, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.422943,37.780296 ]
+    },
+    "properties": {
+    "SCH_NAME":"San Francisco County Civic Center Secondary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"727 GOLDEN GATE AVE, San Francisco, CA 94102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.408859,37.75523 ]
+    },
+    "properties": {
+    "SCH_NAME":"San Francisco International High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1050 YORK ST, SAN FRANCISCO, CA 94110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.44471,37.721645 ]
+    },
+    "properties": {
+    "SCH_NAME":"San Miguel Early Education School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"300 SENECA AVE, San Francisco, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.430359,37.763454 ]
+    },
+    "properties": {
+    "SCH_NAME":"Sanchez Elementary School  / Preschool",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"325 SANCHEZ ST, San Francisco, CA 94114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.421486,37.736912 ]
+    },
+    "properties": {
+    "SCH_NAME":"Serra, Junipero Serra Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"625 HOLLY PARK CIR, San Francisco, CA 94110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.459633,37.714478 ]
+    },
+    "properties": {
+    "SCH_NAME":"Sheridan Elementary School / Preschool",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"431 CAPITOL AVE, San Francisco, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.426117,37.797802 ]
+    },
+    "properties": {
+    "SCH_NAME":"Sherman Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1651 UNION ST, San Francisco, CA 94123"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.470482,37.731258 ]
+    },
+    "properties": {
+    "SCH_NAME":"Sloat, Commodore Sloat Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"50 DARIEN WAY, SAN FRANCISCO, CA 94127"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.418816,37.794006 ]
+    },
+    "properties": {
+    "SCH_NAME":"Spring Valley Elementary / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1451 JACKSON ST, San Francisco, CA 94109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.49276,37.748844 ]
+    },
+    "properties": {
+    "SCH_NAME":"Stevenson, Robert Louis Stevenson Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2051 34TH AVE, San Francisco, CA 94116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.40908,37.795082 ]
+    },
+    "properties": {
+    "SCH_NAME":"Stockton, Commodore Stockton Early Education School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1 TRENTON ST, San Francisco, CA 94108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.448257,37.730293 ]
+    },
+    "properties": {
+    "SCH_NAME":"Sunnyside Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"250 FOERSTER ST, San Francisco, CA 94112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.499153,37.750523 ]
+    },
+    "properties": {
+    "SCH_NAME":"Sunset Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1920 41ST AVE, SAN FRANCISCO, CA 94116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.471451,37.783604 ]
+    },
+    "properties": {
+    "SCH_NAME":"Sutro Elementary / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"235 12TH AVE, San Francisco, CA 94118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.40731,37.727329 ]
+    },
+    "properties": {
+    "SCH_NAME":"Taylor, E. R. Taylor Elementary School / Preschool",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"423 BURROWS ST, San Francisco, CA 94134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.419777,37.781796 ]
+    },
+    "properties": {
+    "SCH_NAME":"Tenderloin Elementary / Early Education",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"627 TURK ST, San Francisco, CA 94102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.434563,37.799419 ]
+    },
+    "properties": {
+    "SCH_NAME":"Tule Elk Park Early Education School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2110 GREENWICH ST, San Francisco, CA 94123"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.499397,37.737316 ]
+    },
+    "properties": {
+    "SCH_NAME":"Ulloa Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2650 42ND AVE, San Francisco, CA 94116"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.409897,37.712524 ]
+    },
+    "properties": {
+    "SCH_NAME":"Visitacion Valley Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"55 SCHWERIN ST, SAN FRANCISCO, CA 94134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.412079,37.715744 ]
+    },
+    "properties": {
+    "SCH_NAME":"Visitacion Valley Middle School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"450 RAYMOND AVE, San Francisco, CA 94134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.445953,37.780647 ]
+    },
+    "properties": {
+    "SCH_NAME":"Wallenberg, Raoul Wallenberg High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"40 VEGA ST, San Francisco, CA 94118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.491013,37.777905 ]
+    },
+    "properties": {
+    "SCH_NAME":"Washington, George Washington High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"600 32ND AVE, San Francisco, CA 94121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.400772,37.762009 ]
+    },
+    "properties": {
+    "SCH_NAME":"Webster, Daniel Webster Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"655 DE HARO ST, SAN FRANCISCO CA 94107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.395843,37.760521 ]
+    },
+    "properties": {
+    "SCH_NAME":"Webster, Daniel Webster Out-Of-School (OST) Program",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"465 MISSOURI ST, San Francisco, CA 94107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.433899,37.775013 ]
+    },
+    "properties": {
+    "SCH_NAME":"Wells, Ida B. Wells High School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1099 HAYES ST, SAN FRANCISCO, CA 94117"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.464348,37.742874 ]
+    },
+    "properties": {
+    "SCH_NAME":"West Portal Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"5 LENOX WAY, San Francisco, CA 94127"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.416611,37.80196 ]
+    },
+    "properties": {
+    "SCH_NAME":"Yick Wo Elementary School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"2245 JONES ST, SAN FRANCISCO, CA 94133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "SCH_NAME":"",
+    "SCH_LABEL":"",
+    "SCH_TYPE":"",
+    "Address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  -122.469681,37.758965 ]
+    },
+    "properties": {
+    "SCH_NAME":"Yu, Alice Fong Yu Alternative School",
+    "SCH_LABEL":"SFUSD",
+    "SCH_TYPE":"PS",
+    "Address":"1541 12TH AVE, San Francisco, CA 94122"
+    }
+  }
+]
+}

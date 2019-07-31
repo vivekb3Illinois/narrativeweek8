@@ -1,0 +1,310 @@
+/* No style rules here yet */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica Neue", sans;
+    font-size: 11px;
+    text-align: center;
+}
+
+h1 {
+    margin: 5px 0px 20px 0px;
+    padding: 0;
+    line-height: 2em;
+    font-family: "Helvetica Neue", sans;
+    font-size: 3.5em;
+    font-weight: 1000;
+    color: #000;
+    text-align: left;
+    border: 3px solid #006C93;
+    border-width: 5px 0px 0px 20px;
+    background: #AEC6CF
+    /* background:	#ADD8E6 */
+}
+
+h2 {
+    line-height: 1em;
+    font-size: 2em;
+    font-weight: 900;
+    color: #000;
+    text-align: center;
+}
+
+
+h2.year {
+    margin: 30px 0px 5px 0px;
+    font-size: 2em;
+    font-weight: 900;
+    font-family: Gill Sans, sans-serif;
+}
+
+p {
+    margin: 5px 0px 0px 0px;
+}
+
+/* .background {
+  fill: #eee
+}
+.map-layer {
+  fill: #aaa
+} */
+
+#chart {
+    background-color: #fff;
+    border: 0px solid #ccc;
+    float: top;
+    stroke-width: 2px;
+    /* background: #eee; */
+}
+
+#donutchart {
+    background-color: #fff;
+    border: 0px solid #ccc;
+    /* border: 2px solid rgb(14, 13, 13); */
+    /*position: fixed;*/
+    /*top: 1900;*/
+    /*left: 1050;*/
+    float: center;
+    /* background: #eee */
+}
+
+.slider {
+    -webkit-appearance: none;
+    margin: 0px 0px 10px 0px;
+    width: 1000px;
+    height: 15px;
+    border-radius: 15px;
+    /* border: 2px solid #000000; */
+    background: #69A0A4;
+    /* background: #d3d3d3; */
+    outline: none;
+    opacity: 1;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    /*margin-left: auto !important;*/
+    /*margin-right: auto !important;      */
+}
+
+.slider:hover {
+    opacity: 1 /* Fully shown on mouse-over */
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    border: 2px solid #000000;
+    appearance: none;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    background: #ffffff;
+    cursor: pointer;
+}
+
+
+.content {
+    margin: 5px 0px 0px 50px;
+    padding: 0px;
+    width: 1500px;
+    /* border: 3px solid #006C93;
+    border-width: 0px 0px 0px 3px; */
+}
+
+#map {
+    background-color: #fff;
+    border: 0px solid #CCC;
+    float: left;
+    /* border: 3px solid #006C93;
+    border-width: 0px 0px 0px 3px; */
+}
+
+/*.chart_layer{*/
+/*  stroke-width: 10*/
+/*}*/
+.tick text {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+#buttons .selected {
+    background: green;
+    /* background: #ff0000; */
+    color: #fff;
+}
+
+.button:hover {
+    background: green;
+    /* background:#e11b17; */
+    color: #fff;
+    cursor: pointer;
+    border-color: #C80200;
+}
+
+
+#landmark {
+
+    /*position: fixed;*/
+    /*bottom: 700px;*/
+    /*left: 100px;*/
+
+
+    position: relative;
+    top: -560px;
+    left: 20px;
+
+    /* display: inline-block; */
+    /* margin: 1000px 10px 10px 100px;*/
+    /* padding: 16px 10px; */
+
+
+    /* display: inline-block; */
+    text-decoration: none;
+    background: #6FB085;
+    color: #FFF;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    box-shadow: 0px 0px 0px 8px #4A9262;
+    border: dashed 1px #FFF;
+    transition: .4s;
+
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.1em;
+    font-weight: 600;
+    /* text-align: center; */
+
+    /* text-align: left */
+}
+
+
+buttons2 .selected {
+    background: #003319;
+    color: #fff;
+}
+
+.button2:hover {
+    background: #003319;
+    color: #fff;
+    cursor: pointer;
+    border-color: #003319;
+}
+
+
+.legend2 text, .legend3 text {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.legend1 text {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.5em
+}
+
+
+div.tooltip {
+    position: absolute;
+    text-align: left;
+    width: 5px;
+    height: 50px;
+    padding: 20px;
+    font-family: verdana;
+    font: 20px sans-serif;
+    font-weight: bold;
+    background: auto;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+#school {
+
+    position: relative;
+    top: -530px;
+    left: 20px;
+
+    /*display: inline-block;*/
+    /*margin: 200px 10px 10px -1000px;*/
+    /*padding: 16px 10px; */
+    /*margin: 10px 10px 10px 100px;*/
+
+    /* display: inline-block; */
+    text-decoration: none;
+    background: #6FB085;
+    color: #FFF;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    box-shadow: 0px 0px 0px 8px #4A9262;
+    border: dashed 1px #FFF;
+    transition: .4s;
+
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.1em;
+    font-weight: 600;
+    /* text-align: center; */
+
+    /* text-align: left */
+}
+
+#intro {
+    margin: 0;
+    padding: 0;
+}
+
+#intro-img {
+    background-image: url("realestateprices.png");
+    background-size: cover;
+    width: auto;;
+    height: 80%;
+    margin: 0;
+    padding: 0;
+}
+
+#sfmap {
+    margin: 0;
+    padding: 0;
+}
+
+#sf0-img {
+    background-image: url("sfo.png");
+    background-size: cover;
+    width: auto;;
+    height: 80%;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: #d54d7b;
+    font-family: "Great Vibes", cursive;
+    font-size: 60px;
+    line-height: 160px;
+    font-weight: normal;
+    margin-bottom: 0px;
+    margin-top: 40px;
+    text-align: center;
+    text-shadow: 0 1px 1px #fff;
+}
+
+p {
+    color: #7a7c7f;
+    font-size: 29px;
+    font-family: "Libre Baskerville", serif;
+    line-height: 45px;
+    text-align: left;
+    text-shadow: 0 1px 1px #fff;
+    padding-top: 20px;
+}
+
+
+
