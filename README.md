@@ -12,7 +12,7 @@ This will give the information about the distribution of type of homes in user s
 ###NARRATIVE STRUCTURE:
 
 
-Narrative structure is following interactive slide show and user can interact on final page with map, slider. User lands on the first page to see the intro or getting to know what they will view. A summary section is displayed next that gives the information about the house price trend visulization tool and its usage. Third and final slide is mainly giving the option to user to drill-down into the San Francisco bay area map and get information about the area, price, house type distribution. User can click on the buttons to plot the landmarks & schools in the area.
+Narrative structure is following Martini glass and user can interact on final page with map, slider, zoom-in/out. User lands on the first page to see the intro or getting to know what they will view. A summary section is displayed next that gives the information about the house price trend visualization tool and its usage. Third and final slide is mainly giving the option to user to drill-down into the San Francisco bay area map and get information about the area, price, house type distribution. User can click on the buttons to plot the landmarks & schools in the area.
 
 
 
