@@ -1032,201 +1032,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.446739,37.710423 ]
     },
     "properties": {
@@ -1236,19 +1041,7 @@
     "Address":"755 MORSE ST, San Francisco, CA 94112"
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
+
   {
     "type": "Feature",
     "geometry": {
@@ -1260,32 +1053,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"1101 EUCALYPTUS DR, San Francisco, CA 94132"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -1312,123 +1079,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"350 HARBOR RD, SAN FRANCISCO, CA 94124"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -1474,19 +1124,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.464477,37.77631 ]
     },
     "properties": {
@@ -1526,32 +1163,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.420105,37.783802 ]
     },
     "properties": {
@@ -1574,19 +1185,7 @@
     "Address":"4235 19TH ST, San Francisco, CA 94114"
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
+
   {
     "type": "Feature",
     "geometry": {
@@ -1598,19 +1197,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"175 OMAR WAY, San Francisco, CA 94127"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -1643,149 +1229,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.430489,37.725399 ]
     },
     "properties": {
@@ -1793,58 +1236,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"260 MADRID ST, San Francisco, CA 94112"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -1864,19 +1255,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.42868,37.773758 ]
     },
     "properties": {
@@ -1890,45 +1268,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.450264,37.773884 ]
     },
     "properties": {
@@ -1936,58 +1275,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"2049 GROVE ST, San Francisco, CA 94117"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -2020,32 +1307,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.466675,37.716782 ]
     },
     "properties": {
@@ -2053,58 +1314,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"400 SARGENT ST, San Francisco, CA 94132"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -2137,19 +1346,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.465027,37.783855 ]
     },
     "properties": {
@@ -2157,84 +1353,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"251 06TH AVE, San Francisco, CA 94118"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -2254,32 +1372,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.489624,37.780865 ]
     },
     "properties": {
@@ -2287,45 +1379,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"450 30TH AVE, San Francisco, CA 94121"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -2354,33 +1407,7 @@
     "Address":"555 TOMPKINS AVE, San Francisco, CA 94110"
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
+   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -2423,19 +1450,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.458351,37.78228 ]
     },
     "properties": {
@@ -2443,409 +1457,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"460 ARGUELLO BLVD, San Francisco, CA 94118"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -2878,45 +1489,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.408859,37.75523 ]
     },
     "properties": {
@@ -2924,110 +1496,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"1050 YORK ST, SAN FRANCISCO, CA 94110"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -3054,58 +1522,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"325 SANCHEZ ST, San Francisco, CA 94114"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -3164,32 +1580,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.418816,37.794006 ]
     },
     "properties": {
@@ -3197,58 +1587,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"1451 JACKSON ST, San Francisco, CA 94109"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -3281,58 +1619,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.448257,37.730293 ]
     },
     "properties": {
@@ -3340,19 +1626,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"250 FOERSTER ST, San Francisco, CA 94112"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -3385,45 +1658,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.40731,37.727329 ]
     },
     "properties": {
@@ -3431,45 +1665,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"423 BURROWS ST, San Francisco, CA 94134"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -3489,45 +1684,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.434563,37.799419 ]
     },
     "properties": {
@@ -3541,58 +1697,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [  -122.499397,37.737316 ]
     },
     "properties": {
@@ -3600,32 +1704,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"2650 42ND AVE, San Francisco, CA 94116"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -3652,45 +1730,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"450 RAYMOND AVE, San Francisco, CA 94134"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {
@@ -3758,20 +1797,7 @@
     "Address":"1099 HAYES ST, SAN FRANCISCO, CA 94117"
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
+   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -3784,202 +1810,7 @@
     "Address":"5 LENOX WAY, San Francisco, CA 94127"
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
-    }
-  },
-  {
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -3990,19 +1821,6 @@
     "SCH_LABEL":"SFUSD",
     "SCH_TYPE":"PS",
     "Address":"2245 JONES ST, SAN FRANCISCO, CA 94133"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  { }
-    },
-    "properties": {
-    "SCH_NAME":"",
-    "SCH_LABEL":"",
-    "SCH_TYPE":"",
-    "Address":""
     }
   },
   {

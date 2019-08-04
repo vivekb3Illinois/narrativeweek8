@@ -423,7 +423,7 @@ d3.csv("data.csv", function(data){
 
 
             type = type_temp
-            console.log(d.properties.value)
+            //console.log(d.properties.value)
             if (type == 1){smalltext("Price/SqFt: $"+ d.properties.value)};
 
         }
@@ -517,7 +517,7 @@ d3.csv("data.csv", function(data){
                 .ease(d3.easeLinear)
                 .duration(1500)
               //  .attr('transform', 'translate(' + width / 2 + ',' + height / 2 + ')scale(' + k + ')translate(' + -x + ',' + -y + ')')
-             .attr('transform', 'translate(' + width / 2 + ',' + height / 2 + ')scale(' + k + ')translate(' + -x + ',' + -y + ')translate(' + -dx + ',' + -dy + ')');
+             .attr('transform', 'translate(' + width / 2 + ',' + height / 2 + ')scale(' + k + ')translate(' + -x + ',' + -y + ')translate(' + 0 + ',' + 0 + ')');
 
         }
 
@@ -548,7 +548,6 @@ d3.csv("data.csv", function(data){
 
 
 
-
         //////////////////////
         //////////////////////
         /////   Chart /////////////
@@ -562,7 +561,7 @@ d3.csv("data.csv", function(data){
 
             // console.log(d)
 
-            var chartmargin = {top: 0, right: 20, bottom: 30, left: 950};
+            var chartmargin = {top: 20, right: 20, bottom: 30, left: 50};
             var chartwidth = 400;
             var chartheight = 300;
 
@@ -594,6 +593,10 @@ d3.csv("data.csv", function(data){
             }
             domain_max = d3.max(allvalue)*1.3
 
+
+            // console.log(allvalue)
+            // console.log(d3.max(allvalue))
+
             for (var year = 2009; year < 2020; year++){
 
                 ColorValue(year,type)
@@ -616,7 +619,7 @@ d3.csv("data.csv", function(data){
                     // .filter(function(d){return d.type == datatype})
                     .attr("class","bar")
                     .attr("width", 30)
-                    .attr("x", dx-30/2)
+                    .attr("x", 900 + (dx-30/2))
                     .attr("y", dy)
                     .attr("height", chartmargin.top+chartheight-dy)
                     // .attr("height", chartmargin.top+chartheight-dy)
@@ -632,7 +635,7 @@ d3.csv("data.csv", function(data){
                     chartsvg
                         .append("text")
                         .attr("class","temp_text")
-                        .attr('x', dx-30/2)
+                        .attr('x', 900 + (dx-30/2))
                         .attr('y', dy-10)
                         .attr('font-size',20)
                         .attr('font-family', "Cambria")
@@ -651,13 +654,13 @@ d3.csv("data.csv", function(data){
                 .tickPadding(5)
 
             var xaxis = chartsvg.append("g")
-                .attr('class','chart_layer')
-                .attr('transform', 'translate(' + 0 + ',' + (chartmargin.top + +chartheight) + ')')
+            // .attr('class','chart_layer')
+                .attr('transform', 'translate(' + 900 + ',' + (chartmargin.top + +chartheight) + ')')
                 .call(x_axis);
 
             var yaxis = chartsvg.append("g")
-                .attr('class','chart_layer')
-                .attr('transform', 'translate(' + chartmargin.left + ',' + 0 + ')')
+            // .attr('class','chart_layer')
+                .attr('transform', 'translate(' + 950  + ',' + 0 + ')')
                 .call(y_axis);
 
             districtName = d.properties.Name
@@ -675,21 +678,20 @@ d3.csv("data.csv", function(data){
 
             chartsvg
                 .append("text")
-                .attr('x', 960)
+                .attr('x', 970)
                 .attr('y', 45)
                 .attr('font-size',20)
                 .attr('font-family', "Cambria")
                 .attr('font-weight',"bold")
                 .attr('fill','#fff')
                 .text(function(d){
-                    if (type == 1){return "Price Trend"}
-                    if (type == 2){return "New Construction Trend"}
-                    if (type == 3){return "Residential/Commercial Trend"}
+                    if (type == 1){return "Price Trend (Move 'Year' slider)"}
+
                 })
-            d3.select("#chart").select("svg").selectAll("text")
-            .transition()
-            .duration(10000)
-            .style("opacity",0.1)
+            // d3.select("#chart").select("svg").selectAll("text")
+            // .transition()
+            // .duration(10000)
+            // .style("opacity",0.1)
 
 
         }
@@ -755,7 +757,7 @@ d3.csv("data.csv", function(data){
                 .enter().append("rect")
                 .attr("class","bar")
                 .attr("width", 30)
-                .attr("x", dx-30/2)
+                .attr("x", 900+ dx-30/2)
                 .attr("y", dy)
                 .attr("height", chartmargin.top+chartheight-dy)
                 .attr("fill","yellow")
@@ -764,7 +766,7 @@ d3.csv("data.csv", function(data){
             d3.select("#chart").select('svg')
                 .append("text")
                 .attr("class","temp_text")
-                .attr('x', dx-30/2)
+                .attr('x', 900+ dx-30/2)
                 .attr('y', dy-10)
                 .attr('font-size',20)
                 .attr('font-family', "Cambria")
@@ -775,6 +777,8 @@ d3.csv("data.csv", function(data){
 
 
         }
+
+
 
 
         ///////////////////////////////////////////////////////////////////////////
@@ -963,6 +967,7 @@ d3.csv("data.csv", function(data){
                     .on("mouseover", function(d,i) {
                         div.transition()
                             .duration(200)
+                            .style("color", "red")
                             .style("opacity", 0.8);
                         div.html(dataset["Name"][i])
                             .style("left", (d3.event.pageX-10 ) + "px" )
@@ -1027,6 +1032,7 @@ d3.csv("data.csv", function(data){
                     var SchoolName = schooljson.features[n].properties.SCH_NAME;
                     var centroid = path.centroid(schooljson.features[n]);
                     schooljson.features[n].properties.center = centroid;
+
                     x = centroid[0];
                     y = centroid[1];
 
@@ -1058,7 +1064,9 @@ d3.csv("data.csv", function(data){
                             .style("opacity", 0.8);
                         div.html(dataset["Name"][i])
                             .style("left", (d3.event.pageX-10 ) + "px" )
+                            .style("color", "red")
                             .style("top", (d3.event.pageY-10 )+ "px" );
+
                     })
                     .on("mouseout", function(d) {
                         div.transition()
