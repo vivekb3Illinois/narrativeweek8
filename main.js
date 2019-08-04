@@ -21,7 +21,7 @@ var projection = d3.geoAlbers()
     .scale( scale )
     .rotate([longitude, 0])
     .center([0, latitude])
-    .translate( [width/2 - 1600  ,height/2-200] );
+    .translate( [width/2 - 1600  ,height/2-250] );
 
 //Define default path generator
 var path = d3.geoPath()
